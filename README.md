@@ -53,9 +53,6 @@ My technical skills cover both front-end and back-end development, with proficie
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/offices/80/000000/php-logo.png" alt="php" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/>
-</a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="nestjs" width="40" height="40"/>
 </a>
