@@ -21,7 +21,6 @@ Throughout my career, I have specialized in NestJS, Node.js, PHP, and Laravel, w
 <a href="rafael-vinicius-barros-ferreira-974598120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandocalenzani" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rafael.viniciusbarros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fernandocalenzani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rafaelviniciusbarros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandocalenzani" height="30" width="40" /></a>
-<-- <a href="https://discord.gg/rafaelviniciusbarrosferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fernandocalenzani" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,12 +35,12 @@ Throughout my career, I have specialized in NestJS, Node.js, PHP, and Laravel, w
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fernandocalenzani&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fernandocalenzani&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocalenzani&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RVBF&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RVBF&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RVBF&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fernandocalenzani&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RVBF&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
