@@ -35,9 +35,9 @@ Throughout my career, I have specialized in NestJS, Node.js, PHP, and Laravel, w
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RVBF&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RVBF&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RVBF&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RVBF&theme=white-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RVBF&theme=white-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RVBF&theme=white-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
