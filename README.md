@@ -59,6 +59,9 @@ My technical skills cover both front-end and back-end development, with proficie
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="nestjs" width="40" height="40"/>
 </a>
+
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="40" height="40"/>
 </p>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/ab/53/c3/ab53c3258caa5c3c691b4de46cb5ad88.gif" />
