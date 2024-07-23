@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Barros</h1>
-<p align="center">🎓 I'm  Computer Technician and course Bachelor's Degree in Information Systems </p>
+<p align="left">🎓 I'm  Computer Technician and course Bachelor's Degree in Information Systems </p>
 
 - 💬 About me: My name is Rafael Barros Ferreira, I’m 29 years old and I’m from Brazil.
 
