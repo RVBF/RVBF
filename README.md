@@ -59,6 +59,10 @@ My technical skills cover both front-end and back-end development, with proficie
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="40" height="40"/>
+
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apache kafka" width="40" height="40"/>
+</a>
 </p>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/ab/53/c3/ab53c3258caa5c3c691b4de46cb5ad88.gif" />
