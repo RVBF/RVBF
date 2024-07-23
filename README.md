@@ -38,6 +38,10 @@ Throughout my career, I have specialized in NestJS, Node.js, PHP, and Laravel, w
     <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="nestjs" width="40" height="40"/>
 </a>
 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://icons8.com/icon/hUvxmdu7Rloj/laravel" alt="laravel" width="40" height="40"/>
+</a>
+
 </p>
 
 
