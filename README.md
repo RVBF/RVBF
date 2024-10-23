@@ -68,9 +68,9 @@ My technical skills cover both front-end and back-end development, with proficie
 <img align="right" height="150" src="https://i.pinimg.com/originals/ab/53/c3/ab53c3258caa5c3c691b4de46cb5ad88.gif" />
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RVBF&theme=white-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RVBF&theme=white-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RVBF&theme=white-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RVBF&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RVBF&theme=vue&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVBF&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RVBF&icon=0&color=0)](https://visitcount.itsvg.in)
