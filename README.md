@@ -68,9 +68,15 @@ My technical skills cover both front-end and back-end development, with proficie
 <img align="right" height="150" src="https://i.pinimg.com/originals/ab/53/c3/ab53c3258caa5c3c691b4de46cb5ad88.gif" />
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RVBF&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RVBF&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Minhas%20Estatísticas%20GitHub&rank_icon=github)
+### 📊 Contribution Stats:
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=vue)
+### 📊 GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RVBF&theme=vue&hide_border=true)<br/>
+### 📊 GitHub Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVBF&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 📊 Metrics:
+![Metrics](https://metrics.lecoq.io/SEU_USERNAME?template=classic&repositories.forks=true&lines=true&config.timezone=America%2FSao_Paulo)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RVBF&icon=0&color=0)](https://visitcount.itsvg.in)
